@@ -1,0 +1,16 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "title": "Google",
+      "description": "A place where we get to know about more and more!",
+      "link": "https://www.google.com"
+    },
+    {
+      "title": "VueJs",
+      "description": "Vue.js is a JavaScript Library which used for better UI experience",
+      "link": "https://www.vuejs.org",
+      "id": 2
+    }
+  ]
+}
